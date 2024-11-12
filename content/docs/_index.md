@@ -1,18 +1,9 @@
 ---
 title: Documentation
-next: first-page
+type: docs
+prev: /
+next: docs/gettingstarted/
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+## Welcome to the MTVM Documentation!
+You can click the next button to proceed, and the back button to go back. 

@@ -1,4 +1,4 @@
-module github.com/imfing/hextra-starter-template
+module mtvm/docs
 
 go 1.21
 

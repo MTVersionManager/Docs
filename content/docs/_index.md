@@ -2,7 +2,7 @@
 title: Documentation
 type: docs
 prev: /
-next: docs/gettingstarted/
+next: docs/getting-started/
 ---
 
 ## Welcome to the MTVM Documentation!
